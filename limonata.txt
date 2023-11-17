@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 
 biray daha seker eklendi
+=======
+>>>>>>> 8ed4d16e5a14d747d87aa91940d8447affe749e9
 
+baska yok biray daha seker eklendi
+
+buzeklendi
